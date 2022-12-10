@@ -263,3 +263,124 @@ Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1D 2022**
 - [MOH. DICKY PURNAMA](https://github.com/praktikum-alpro-1d-2022/1d-tugas10-moh-dicky-purnama)
 - [MOHAMMAD BAHARUDIN YUSUF](https://github.com/praktikum-alpro-1d-2022/1d-tugas10-mohammad-baharudin-yusuf)
 - [RENDIARTA PRADANA ATMAJA](https://github.com/praktikum-alpro-1d-2022/1d-tugas10-rendiarta-pradana-atmaja)
+
+## 📙 Ujian Akhir Semester
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zme7">Kelompok</th>
+    <th class="tg-pidv">Studi Kasus</th>
+    <th class="tg-pidv">Anggota</th>
+    <th class="tg-pidv">Kelompok</th>
+    <th class="tg-pidv">Studi Kasus</th>
+    <th class="tg-pidv">Anggota</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">1</td>
+    <td class="tg-0pky" rowspan="3">Restoran</td>
+    <td class="tg-0pky">DINDA ISMI HANIFAH WAKSITO</td>
+    <td class="tg-c3ow" rowspan="3">2</td>
+    <td class="tg-0pky" rowspan="3">Hotel</td>
+    <td class="tg-0pky">GHINA AQLI SYAHIRAH</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FERIKA PRAMUDIYAWAN</td>
+    <td class="tg-0pky">HUDZAIFAH NABIL AMRULLAH</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MOH. DICKY PURNAMA</td>
+    <td class="tg-0pky">GARETH MU'AMMAR DYSA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-1">Kelompok 1</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-2">Kelompok 2</a>
+    </td>
+  </tr>
+    <tr>
+    <td class="tg-c3ow" rowspan="4">3</td>
+    <td class="tg-0pky" rowspan="4">Pesawat</td>
+    <td class="tg-0pky">JOYCE ROSITA FIRDAUS</td>
+    <td class="tg-c3ow" rowspan="4">4</td>
+    <td class="tg-0pky" rowspan="4">Bioskop</td>
+    <td class="tg-0pky">JULIANA WIDIANTI DWI PUTRI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MUHAMMAD RAMADHAN SYAHRUL AL QODR</td>
+    <td class="tg-0pky">JULIANDA ZAKI PRADIPTA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FARIS FADIL DHIAULHAQ</td>
+    <td class="tg-0pky">ILHAM ARIF FARABI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">RENDIARTA PRADANA ATMAJA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-3">Kelompok 3</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-4">Kelompok 4</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">5</td>
+    <td class="tg-0pky" rowspan="3">Perpustakaan</td>
+    <td class="tg-0pky">LARAS RAHMAWATI</td>
+    <td class="tg-c3ow" rowspan="3">6</td>
+    <td class="tg-0pky" rowspan="3">Coffee</td>
+    <td class="tg-0pky">LUTHFI SIFA KHAERUNNISA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MALIK SYAFI'I</td>
+    <td class="tg-0pky">DZIKRI MAULANA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MOHAMMAD BAHARUDIN YUSUF</td>
+    <td class="tg-0pky">MUHAMMAD ADDIEN GILANG SAPUTRA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-5">Kelompok 5</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-6">Kelompok 6</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="4">7</td>
+    <td class="tg-0pky" rowspan="4">Toko Buku</td>
+    <td class="tg-0pky">MEISSY IRIANIA PUTRI</td>
+    <td class="tg-c3ow" rowspan="4">8</td>
+    <td class="tg-0pky" rowspan="4">ATM</td>
+    <td class="tg-0pky">MUHAMMMAD SUBHAKTI ARIPIN MAULANA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FABIAN NUR ROHMAN</td>
+    <td class="tg-0pky">FARHAN RAMADHAN PRADITYA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FAKHRI RIFQI FAHREZAT</td>
+    <td class="tg-0pky">HAIKAL SYAUQI RABBANI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">MUHAMMAD NURBAYU DILA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-7">Kelompok 7</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1d-2022/1d-uas-kelompok-8">Kelompok 8</a>
+    </td>
+  </tr>
+  
+</tbody>
+</table>
