@@ -1,4 +1,17 @@
-Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1D 2022"
+![1D Alpro 2022](https://github.com/praktikum-alpro-1d-2022/.github/blob/main/profile/assets/1D.jpeg)
+Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1D 2022**
+
+## 📙 Materi
+- [Pertemuan 1](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-1)
+- [Pertemuan 2](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-2)
+- [Pertemuan 3](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-3)
+- [Pertemuan 4](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-4)
+- [Pertemuan 5](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-5)
+- [Pertemuan 6](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-6)
+- [Pertemuan 7](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-7)
+- [Pertemuan 8](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-8)
+- [Pertemuan 9](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-9)
+- [Pertemuan 10](https://github.com/praktikum-alpro-1d-2022/.github/tree/main/profile/materi/pertemuan-10)
 ## 📙 Tugas 1
 - [DINDA ISMI HANIFAH WAKSITO](https://github.com/praktikum-alpro-1d-2022/1d-tugas1-dinda-ismi-hanifah-waksito)
 - [DZIKRI MAULANA](https://github.com/praktikum-alpro-1d-2022/1d-tugas1-dzikri-maulana)
